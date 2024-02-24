@@ -1,9 +1,10 @@
 #include <iostream>
+#include "Ejers.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    Ejercicio1();
     return 0;
 }
