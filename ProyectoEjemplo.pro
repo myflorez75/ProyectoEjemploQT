@@ -6,6 +6,7 @@ CONFIG -= qt
 SOURCES += \
         Ejer1.cpp \
         Ejer2.cpp \
+        Ejer3.cpp \
         main.cpp
 
 HEADERS += \
