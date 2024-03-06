@@ -8,6 +8,7 @@ SOURCES += \
         Ejer2.cpp \
         Ejer3.cpp \
         Ejer4.cpp \
+        Ejer5.cpp \
         main.cpp
 
 HEADERS += \
